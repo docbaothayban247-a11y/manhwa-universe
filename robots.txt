@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://manhwa-universe.azurestaticapps.net/sitemap.xml
