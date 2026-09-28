@@ -11,6 +11,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://yellow-bay-0e2016110.7.azurestaticapps.net/amusement-park-raw.html</loc>
+    <lastmod>2026-08-21</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://yellow-bay-0e2016110.7.azurestaticapps.net/department-store-ladies.html</loc>
     <lastmod>2026-08-21</lastmod>
     <priority>0.8</priority>
@@ -11132,11 +11137,6 @@
   </url>
   <url>
     <loc>https://yellow-bay-0e2016110.7.azurestaticapps.net/bizarre-restaurant.html</loc>
-    <lastmod>2026-08-21</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://yellow-bay-0e2016110.7.azurestaticapps.net/amusement-park-raw.html</loc>
     <lastmod>2026-08-21</lastmod>
     <priority>0.8</priority>
   </url>
